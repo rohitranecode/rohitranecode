@@ -1,5 +1,23 @@
-## Rohit Rane 
+# Rohit Rane 
 ### B.Tech Computer Science and Engineering (2025)
+
+## 👨‍💻 About Me
+
+I am a passionate Data Science & AI enthusiast focused on transforming raw data into meaningful insights.  
+I work with Python, Machine Learning, Deep Learning, SQL, and Data Analytics tools to solve real-world problems.  
+Currently, I am exploring advanced areas like Neural Networks, Computer Vision, NLP, and Data Engineering workflows.
+
+I love building:
+- 📊 Data analysis dashboards  
+- 🤖 ML/DL models  
+- 📈 Predictive analytics systems  
+- 🔍 Exploratory data studies  
+- 📚 End-to-end data science projects  
+
+
+## 🔗 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rohitranecs)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](rohitprashantrane@email.com)
 
 ## 💻 Tech Stack:
 
@@ -10,7 +28,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitranecode&show_icons=true&theme=dark&hide_border=true)
+
 
 
 <!--
